@@ -1,4 +1,4 @@
-# garbage-face-detection
+# 🗑️ Garbage & Face Detection using YOLOv7 + OpenCV
 This project detects garbage thrown outside dustbins and identifies the person responsible using **YOLOv7** + **OpenCV**. If someone throws garbage in the wrong place, the system detects their face and sends an **automated SMS alert** using **Twilio**, notifying them that they will pay a fine.
 .
 - People
