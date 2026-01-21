@@ -4,8 +4,8 @@ AUTH_TOKEN = "YOUR_TWILIO_AUTH_TOKEN"
 TWILIO_NUMBER = "+17752589093"
 
 CONTACT_NUMBERS = {
-    "Shreya": "+919369149409",
-    "Satish": "+918595984761"
+    "Shreya": "+XXXXXX",
+    "Satish": "+XXXXXX"
 }
 
 KNOWN_FACES = {
