@@ -6,8 +6,8 @@ TWILIO_TOKEN = "YOUR_TOKEN"
 TWILIO_NUMBER = "+17752589093"
 
 CONTACTS = {
-    "Shreya": "+919369149409",
-    "Satish": "+918595984761"
+    "Shreya": "+91936xxxxxx",
+    "Satish": "+91834xxxxxxx"
 }
 
 
